@@ -14,9 +14,6 @@ export default function Nav() {
                 <li class="nav-item active">
                     <a class="nav-link" href="/health-insurance">Home <span class="sr-only">(current)</span></a>
                 </li>
-                <li class="nav-item disabled">
-                    <a class="nav-link" href="/health-insurance">Home</a>
-                </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                         data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
